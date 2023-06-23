@@ -1,5 +1,5 @@
 # Welcome to counters in python
-
+The `Counter` data structure provides a convenient way to keep track of the frequency of elements in a `collection`. It allows you to efficiently count the occurrences of elements and provides several useful methods for working with the counted data.
 
 ``` python
 ####################                             Counters in python                              ####################
